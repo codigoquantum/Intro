@@ -1,4 +1,4 @@
-# Intro
+# Introducción
 fuente de código q#
 Como seguidor de las nuevas tecnologías, he puesto la mirada en Computación Cuántica (Quantum Computing), como alternativa a cuellos de botellas de comunicación en las diferentes Sistemas tecnologicos que hoy conocemos.
 Es muy importante, que conozcamos las nuevas tecnologías adicionales a la Computación Cuántica, con las que se puede interactuar a grandes velocidades (5G, IA, Machne Learning, Robótica, Blockchain y otras), sobre todo en campos o areas como La Banca Internacional, La Salud, Las grandes empresas gestoras de Datos (Comercial, Industrial y de Servicios), en la que se ve inmersa la necesidad de poder obtener, una oportuna información en tiempo real y sin contratiempos.
